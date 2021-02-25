@@ -1,0 +1,711 @@
+# depslib dependency file v1.0
+1608041116 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\agenda.cpp
+	"Agenda.h"
+
+1608043210 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\agenda.h
+	"Dizionario.h"
+	"Appunto.h"
+	"Lista.h"
+	"servizioLista.h"
+
+1591976668 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\dizionario.h
+	"Entry.h"
+
+1591976668 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\entry.h
+
+1549585046 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\appunto.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1553708826 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\lista.h
+	"Cella_L_DP.h"
+
+1549585054 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cella_l_dp.h
+
+1549585078 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\serviziolista.h
+	"Lista.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1549585046 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\appunto.cpp
+	"Appunto.h"
+
+1608071871 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\astro.cpp
+	"Astro.h"
+	"Interfaccia.h"
+	"Museo.h"
+	"Listaa.h"
+	"Insieme.h"
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<unistd.h>
+	<algorithm>
+	"Biglietto.h"
+	"Prodotto.h"
+	"Mostra.h"
+
+1608040612 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\astro.h
+	"Gioco.h"
+	"DescData.h"
+	"Lista.h"
+	"Oggetti.h"
+	<ctime>
+	"Portafoglio.h"
+	"CartadiCredito.h"
+	"servizioLista.h"
+	"listaVettore.h"
+	"Pila.h"
+	"scontrino.h"
+	"fabbrica.h"
+
+1608030474 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\gioco.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	"StatoSalute.h"
+	"ServizioTrasporti.h"
+	"Agenda.h"
+	"Dizionario.h"
+	"Mappa.h"
+	"Grafo.h"
+	"Oggetti.h"
+	"Interfaccia.h"
+	"Stato.h"
+	"Pila.h"
+	"stato_comando.h"
+	"Bacheca.h"
+	"enigma.h"
+	"Motorino.h"
+	"storia.h"
+	"Documenti.h"
+	"Negozio.h"
+	"Banca.h"
+	"Portafoglio.h"
+	"CartadiCredito.h"
+	"Lista.h"
+	"Premio.h"
+	"Premi.h"
+	"Insieme.h"
+	"Personaggi.h"
+	"Canzone.h"
+	"Luce.h"
+	"rubrica.h"
+	"UfficioPostale.h"
+	"Batteria.h"
+	"Attivita.h"
+	"Automobile.h"
+	"Autobus.h"
+	"Palestra.h"
+	"Contapassi.h"
+
+1549585080 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\statosalute.h
+	"Ferita.h"
+	"Lista.h"
+
+1549585060 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\ferita.h
+	<string>
+
+1549585078 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\serviziotrasporti.h
+	"Trasporto.h"
+	"Lista.h"
+	"servizioLista.h"
+
+1549585082 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\trasporto.h
+	<string>
+
+1592042022 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\mappa.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<fstream>
+	"Luogo.h"
+	"Via.h"
+	"Pila.h"
+	"Coda.h"
+	"Prioricoda.h"
+	"Grafo.h"
+	"Nalbero.h"
+	"Interfaccia.h"
+	"Nodo_etichetta.h"
+	"Nodo_predecessore.h"
+	"Nodo_cursore.h"
+
+1554294158 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luogo.h
+	<iostream>
+	<cstdlib>
+	"Vialuogo.h"
+	"Lista.h"
+	"servizioLista.h"
+	"DescData.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	"Oggetti.h"
+
+1549585084 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\vialuogo.h
+	<iostream>
+	<cstdlib>
+
+1549585056 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\descdata.h
+	"Lista.h"
+	"servizioLista.h"
+	<string>
+
+1567061910 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\oggetti.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Oggetto.h"
+
+1572426258 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\oggetto.h
+	<string>
+
+1549585084 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\via.h
+	<iostream>
+	<cstdlib>
+
+1591976668 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\pila.h
+
+1549585054 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\coda.h
+	"Lista.h"
+
+1592130680 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\prioricoda.h
+	"Lista_vettore.h"
+	"Priorielem.h"
+	<iostream>
+	<cstdlib>
+
+1592130006 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\lista_vettore.h
+	<iostream>
+
+1591976478 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\priorielem.h
+	<iostream>
+	<cstdlib>
+
+1553708834 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\grafo.h
+	"CellaGrafo.h"
+	"CellaNodo.h"
+	<iostream>
+	"Lista.h"
+
+1607988150 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cellagrafo.h
+
+1549585054 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cellanodo.h
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nalbero.h
+	"Cellanalbero.h"
+	<ctype.h>
+
+1549585054 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cellanalbero.h
+	"Cellams.h"
+
+1549585054 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cellams.h
+	<ctype.h>
+
+1599205416 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\interfaccia.h
+	<string>
+	"Luogo.h"
+	"Oggetti.h"
+	"Oggetto.h"
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_etichetta.h
+	"Luogo.h"
+	<iostream>
+	<cstdlib>
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_predecessore.h
+	<iostream>
+	<cstdlib>
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_cursore.h
+	<iostream>
+	<cstdlib>
+
+1549585078 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stato.h
+	"Oggetti.h"
+	"f_array.h"
+	"Pila.h"
+
+1549585060 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\f_array.h
+
+1549585080 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stato_comando.h
+	<string>
+	"Stato.h"
+
+1549585050 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\bacheca.h
+	"Lista.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<cctype>
+
+1549585060 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\enigma.h
+	<iostream>
+	"Lista.h"
+	"servizioLista.h"
+	"risposta.h"
+
+1549585076 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\risposta.h
+	<iostream>
+	<string>
+
+1549585066 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\motorino.h
+	"Veicolo.h"
+
+1554292910 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\veicolo.h
+	"Oggetto.h"
+
+1549585082 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\storia.h
+	<string>
+	"Lista.h"
+
+1549585058 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\documenti.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Lista.h"
+	"servizioLista.h"
+	"Documento.h"
+
+1549585058 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\documento.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Oggetto.h"
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\negozio.h
+	"Oggetto.h"
+	"Interfaccia.h"
+	"Oggetti.h"
+	"Servizi_Lista.h"
+	"Transazioni.h"
+
+1549585078 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\servizi_lista.h
+	<cstdlib>
+	<iostream>
+
+1549585082 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\transazioni.h
+	"Interfaccia.h"
+	"Oggetti.h"
+
+1549585050 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\banca.h
+	"Oggetto.h"
+	"Interfaccia.h"
+	"Oggetti.h"
+	"Servizi_Lista.h"
+	"Transazioni.h"
+
+1549585070 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\portafoglio.h
+	"Oggetti.h"
+	"Negozio.h"
+
+1549585052 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cartadicredito.h
+	"Oggetti.h"
+	"Negozio.h"
+	"Portafoglio.h"
+
+1549585072 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\premio.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1549585072 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\premi.h
+	"Lista.h"
+	"Premio.h"
+
+1591976668 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\insieme.h
+	"Lista.h"
+
+1549585072 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\personaggi.h
+	<iostream>
+	<cstring>
+	<stdarg.h>
+	"Dialogo.h"
+
+1549585056 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\dialogo.h
+	"AlberoNario.h"
+	"Domanda.h"
+	"math.h"
+	<iostream>
+	"Pila.h"
+
+1549585046 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\alberonario.h
+	<exception>
+	"BinAlbero.h"
+
+1549585052 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\binalbero.h
+	"Nodo_Albero_Binario.h"
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_albero_binario.h
+
+1549585058 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\domanda.h
+	"string"
+
+1549585052 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\canzone.h
+	<iostream>
+	<string>
+
+1549585064 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luce.h
+	<string>
+	<iostream>
+
+1549585076 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\rubrica.h
+	<iostream>
+	<string>
+
+1549585084 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\ufficiopostale.h
+	"luogoufficio.h"
+	<cstdlib>
+
+1549585064 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luogoufficio.h
+	"Luogo.h"
+	"Oggetti.h"
+	"Documenti.h"
+	"Documento.h"
+
+1553767218 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\batteria.h
+	<iostream>
+	<string>
+
+1553767206 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\attivita.h
+	<iostream>
+	<string>
+
+1514551384 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\automobile.h
+	"Veicolo.h"
+	"Bagagliaio.h"
+
+1514551454 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\bagagliaio.h
+	"Oggetto.h"
+
+1514551336 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\autobus.h
+	"Veicolo.h"
+
+1549585070 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\palestra.h
+	"StatoFisico.h"
+	"Scheda.h"
+	"Lista.h"
+	"Dizionario.h"
+	<Windows.h>
+	<sstream>
+	<string>
+	<iostream>
+
+1549585080 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\statofisico.h
+
+1549585076 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\scheda.h
+	"Coda.h"
+	<iostream>
+	<string>
+
+1580118776 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\contapassi.h
+	<string>
+	<iostream>
+	<sstream>
+	"Pila.h"
+	"Mappa.h"
+	"Interfaccia.h"
+	"Grafo.h"
+	"Via.h"
+
+1584636330 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\listavettore.h
+
+1584543414 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\scontrino.h
+	<string>
+	<iostream>
+
+1599817336 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\fabbrica.h
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<string>
+	"Coda.h"
+
+1549585068 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\museo.h
+	"Grafo.h"
+	"StanzaMuseo.h"
+	"servizioLista.h"
+
+1608066636 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stanzamuseo.h
+	<string>
+
+1509965064 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\listaa.h
+	<assert.h>
+	"Cellaa.h"
+
+1509965058 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cellaa.h
+
+1549585050 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\biglietto.h
+	<string>
+
+1549585074 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\prodotto.h
+	<string>
+
+1553708794 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\mostra.h
+	"Grafo.h"
+	"StanzaMostra.h"
+
+1553708652 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stanzamostra.h
+	<string>
+
+1553767204 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\attivita.cpp
+	"Attivita.h"
+
+1514551360 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\autobus.cpp
+	"Autobus.h"
+
+1514551404 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\automobile.cpp
+	"Automobile.h"
+
+1549585048 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\azione.cpp
+	"Azione.h"
+
+1549585050 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\azione.h
+
+1549585050 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\bacheca.cpp
+	"Bacheca.h"
+
+1514551476 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\bagagliaio.cpp
+	"Bagagliaio.h"
+	<cstdlib>
+	<iostream>
+
+1549585050 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\banca.cpp
+	"Banca.h"
+
+1553767216 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\batteria.cpp
+	"Batteria.h"
+
+1549585050 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\biglietto.cpp
+	"Biglietto.h"
+
+1549585052 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\canzone.cpp
+	"Canzone.h"
+
+1549585052 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\cartadicredito.cpp
+	"CartadiCredito.h"
+
+1592041532 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\contapassi.cpp
+	"contapassi.h"
+
+1549585056 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\descdata.cpp
+	"DescData.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1549585056 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\dialogo.cpp
+	"Dialogo.h"
+
+1579526334 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\documenti.cpp
+	"Documenti.h"
+
+1549585056 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\documento.cpp
+	"Documento.h"
+	<iostream>
+
+1549585058 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\domanda.cpp
+	"Domanda.h"
+
+1549585060 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\enigma.cpp
+	"enigma.h"
+
+1549585060 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\f_array.cpp
+	"f_array.h"
+
+1599813806 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\fabbrica.cpp
+	"fabbrica.h"
+
+1549585060 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\ferita.cpp
+	"Ferita.h"
+
+1608070168 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\gioco.cpp
+	"ServizioInsieme.h"
+	<time.h>
+	"Gioco.h"
+	"Pila.h"
+	"Bacheca.h"
+	"enigma.h"
+	"risposta.h"
+	"Interfaccia.h"
+	"ServizioPila.h"
+	"Oggetti.h"
+	"Agenda.h"
+	"Oggetto.h"
+	<windows.h>
+	<unistd.h>
+	<cstdio>
+	"Mostra.h"
+
+1549585076 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\servizioinsieme.h
+	"Insieme.h"
+
+1549585078 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\serviziopila.h
+	<iostream>
+	"Pila.h"
+
+1599206218 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\interfaccia.cpp
+	<iostream>
+	<cstdlib>
+	"Interfaccia.h"
+
+1549585062 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luce.cpp
+	"Luce.h"
+
+1554294118 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luogo.cpp
+	"Luogo.h"
+
+1549585064 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\luogoufficio.cpp
+	"luogoufficio.h"
+
+1567355786 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\main.cpp
+	<cstdlib>
+	<iostream>
+	"Mappa.h"
+	"Astro.h"
+
+1607988642 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\mappa.cpp
+	<iostream>
+	<cstdlib>
+	"Mappa.h"
+	"Luogo.h"
+	"Coda.h"
+	"ServizioPila.h"
+
+1608066249 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\mostra.cpp
+	"Mostra.h"
+	"Grafo.h"
+	<iostream>
+
+1549585066 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\motorino.cpp
+	"Motorino.h"
+
+1549585066 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\museo.cpp
+	"Museo.h"
+	<iostream>
+
+1549585068 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\negozio.cpp
+	"Negozio.h"
+
+1592131962 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_grafo.cpp
+	"Nodo_Grafo.h"
+
+1592131962 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\nodo_grafo.h
+
+1567026852 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\oggetti.cpp
+	"Oggetti.h"
+
+1572426264 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\oggetto.cpp
+	"Oggetto.h"
+
+1549585070 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\palestra.cpp
+	"Palestra.h"
+
+1549585072 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\personaggi.cpp
+	"Personaggi.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdarg.h>
+
+1599478004 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\portafoglio.cpp
+	"Portafoglio.h"
+
+1549585072 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\premi.cpp
+	"Premi.h"
+
+1549585072 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\premio.cpp
+	"Premio.h"
+	<iostream>
+
+1549585072 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\prodotto.cpp
+	"Prodotto.h"
+
+1549585076 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\risposta.cpp
+	"risposta.h"
+
+1549585076 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\rubrica.cpp
+	"rubrica.h"
+
+1549585076 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\scheda.cpp
+	"Scheda.h"
+
+1584543296 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\scontrino.cpp
+	"scontrino.h"
+
+1549585078 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\serviziotrasporti.cpp
+	"ServizioTrasporti.h"
+	"Trasporto.h"
+	<cstdlib>
+	<fstream>
+	<iostream>
+
+1608066606 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stanzamostra.cpp
+	"StanzaMostra.h"
+	<iostream>
+	<cstdlib>
+
+1549585078 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stanzamuseo.cpp
+	"StanzaMuseo.h"
+	<iostream>
+	<cstdlib>
+
+1549585078 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stato.cpp
+	"Stato.h"
+
+1549585080 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\stato_comando.cpp
+	"stato_comando.h"
+
+1549585080 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\statofisico.cpp
+	"StatoFisico.h"
+
+1554291180 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\statosalute.cpp
+	"StatoSalute.h"
+	<cstdlib>
+
+1549585080 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\storia.cpp
+	"storia.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1549585082 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\transazioni.cpp
+	"Transazioni.h"
+
+1549585082 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\trasporto.cpp
+	"Trasporto.h"
+
+1549585082 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\ufficiopostale.cpp
+	"UfficioPostale.h"
+
+1554292952 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\veicolo.cpp
+	"Veicolo.h"
+	"Oggetto.h"
+
+1549585084 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\via.cpp
+	"Via.h"
+
+1549585084 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\vialuogo.cpp
+	"Vialuogo.h"
+
+1549585086 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\vocabolo.cpp
+	"Vocabolo.h"
+
+1549585086 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\vocabolo.h
+	<string>
+
+1549585084 source:c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\zaino.cpp
+	"Zaino.h"
+
+1549585086 c:\users\giampaolo\desktop\progetto funzionante - compila ma non parte\lore\zaino.h
+
